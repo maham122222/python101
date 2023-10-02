@@ -32,7 +32,3 @@ text="hello \n This is other some text"
 with open('day4.txt','a') as file:
     file.write(text)
 
-
-# copy a file
-# use shutil module to copy file
-
